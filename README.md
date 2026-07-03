@@ -70,7 +70,7 @@ The Python notebook included in this repository contains the complete data clean
 
 ### Flipkart Sales Dashboard
 
-![Flipkart Sales Dashboard](Dashboard/flipkart_sales_dashboard.png)
+![Flipkart Sales Dashboard](Dashboard/Flipkart_sales_dashboard.png)
 
 ---
 
